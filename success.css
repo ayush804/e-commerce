@@ -1,0 +1,13 @@
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 10px 0;
+    padding-bottom: 10px;
+    background-color: #101010;
+    color: #9d9d9d;
+}
+.container_style{
+    width: 32%;
+    margin: auto;
+}
